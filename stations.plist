@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<array>
+		<dict>
+			<key>name</key>
+			<string>NRK P1</string>
+			<key>url</key>
+			<string>http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NRK P2</string>
+			<key>url</key>
+			<string>http://lyd.nrk.no/nrk_radio_p2_mp3_h</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NRK P3</string>
+			<key>url</key>
+			<string>http://lyd.nrk.no/nrk_radio_p3_mp3_h</string>
+		</dict>
+	</array>
+</plist>
